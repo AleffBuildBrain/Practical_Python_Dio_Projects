@@ -36,7 +36,6 @@ Each project represents a step toward building a solid foundation in Python and 
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000?style=for-the-badge&logo=markdown)
 [![Git](https://img.shields.io/badge/Git-%23ED8B00?style=for-the-badge&logo=git&logoColor=B22222)](https://git-scm.com/doc)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-E5E5E5?style=for-the-badge&logo=linux&logoColor=%23ED8B00)
 ![Windows](https://img.shields.io/badge/Windows-00599C?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 
 ---
