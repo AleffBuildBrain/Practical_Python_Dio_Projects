@@ -33,7 +33,8 @@ while True:
                     data_hora = datetime.now().strftime("%d/%m/%Y %H:%M:%S")
                     historico.append(f"{data_hora} - Depósito: {formatar_valor(valor)} - Subtotal: {formatar_valor(saldo)}")
                     print("Depósito realizado com sucesso!")
-        
+                    break
+      
                 else:
                     print("Valor inválido. Informe um valor válido.")
         
@@ -76,7 +77,8 @@ while True:
                     data_hora = datetime.now().strftime("%d/%m/%Y %H:%M:%S")
                     historico.append(f"{data_hora} - Saque: -{formatar_valor(valor)} - Subtotal: {formatar_valor(saldo)}")
                     print("Saque realizado com sucesso!")
-        
+                    break
+
             except ValueError:
                 print("Operação incorreta. Informe um comando válido.")
 
